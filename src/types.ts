@@ -40,7 +40,7 @@ export interface RawModelType {
 }
 
 export interface ModelOption {
-  orginModel: MetaModel;
+  originModel: MetaModel;
 
   sceneCode: string;
 
